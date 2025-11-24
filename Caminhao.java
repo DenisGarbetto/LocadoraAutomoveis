@@ -30,7 +30,7 @@ public class Caminhao extends Automovel {
     }
 
     public int getQuantidadeEixos() {return quantidadeEixos;}
-    public void setQuantideEixeox(int quantidadeEixos) {this.quantidadeEixos = quantidadeEixos;}
+    public void setQuantideEixos(int quantidadeEixos) {this.quantidadeEixos = quantidadeEixos;}
 
     public int getCargaMaxima() {return CargaMaxima;}
     public void setCargaMaxima(int CargaMaxima) {this.CargaMaxima = CargaMaxima;}
